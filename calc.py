@@ -11,3 +11,6 @@ def divide(a, b):
 
 
 print('2 + 3 = %d' % add(2, 3))
+print('2 * 5 = %d' % multiply(2, 5))
+
+

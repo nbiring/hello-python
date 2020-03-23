@@ -1,5 +1,5 @@
 # This is my sample file.
-def add(a, b):
+def add(a, b): # Addition Function
 	return a + b
 
 

@@ -3,7 +3,7 @@ def add(a, b): # Addition Function
 	return a + b
 
 
-def multiply(a, b): # Multipy Function
+def multiply(a, b): # Multiply Function
 	return a * b
 
 
